@@ -86,8 +86,8 @@ File is opened in binary mode implicitly.
 
 🎯 Learning Outcomes
 
-# Understand how to use structures with files
+ Understand how to use structures with files
 
-# Learn binary file operations in C
+ Learn binary file operations in C
 
-# Practice searching records in a file
+ Practice searching records in a file
